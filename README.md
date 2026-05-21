@@ -77,7 +77,7 @@ nand(nandgate,a,b);
 endmodule
 ```
 
-Developed by:212225240105: 
+Developed by:212225240148: 
  
 **Logic symbol & Truthtable**
 <img width="722" height="687" alt="image" src="https://github.com/user-attachments/assets/0cb4c165-4656-47e0-83d6-7cce384f73ff" />
